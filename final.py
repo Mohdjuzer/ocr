@@ -443,3 +443,5 @@ if __name__ == "__main__":
     if not extracted_df.empty:
         print("\nFinal Extracted Answers DataFrame:")
         print(extracted_df)
+
+    # Just for exam purpose    
